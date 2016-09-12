@@ -1757,7 +1757,7 @@
         <entry key="Djamo" value="" />
         <entry key="DjanJinja" value="" />
         <entry key="Djang" value="" />
-        <entry key="Django" value="" />
+        <entry key="Django" value="1.10.1" />
         <entry key="Django-Abstract-Relations" value="" />
         <entry key="Django-Accounts" value="" />
         <entry key="Django-Actuary" value="" />
@@ -3188,7 +3188,7 @@
         <entry key="Fused" value="" />
         <entry key="Futaam" value="" />
         <entry key="FuxSocy" value="" />
-        <entry key="Fuzzy" value="" />
+        <entry key="Fuzzy" value="1.1" />
         <entry key="FuzzyMatch" value="" />
         <entry key="FuzzySortedDict" value="" />
         <entry key="Fuzzython" value="" />
@@ -4993,7 +4993,7 @@
         <entry key="MyPyML" value="" />
         <entry key="MyPyPiTut" value="" />
         <entry key="MyQR" value="" />
-        <entry key="MySQL-python" value="" />
+        <entry key="MySQL-python" value="1.2.3" />
         <entry key="MySQL-python-embedded" value="" />
         <entry key="MySQL-python-glb" value="" />
         <entry key="MySQLdb" value="" />
@@ -5706,7 +5706,7 @@
         <entry key="Pikabu_telegram_bot" value="" />
         <entry key="Pikzie" value="" />
         <entry key="Pil-Lite" value="" />
-        <entry key="Pillow" value="" />
+        <entry key="Pillow" value="3.3.1" />
         <entry key="Pillow-PIL" value="" />
         <entry key="Pillow-SIMD" value="" />
         <entry key="Pilot-Lib" value="" />
@@ -8088,7 +8088,7 @@
         <entry key="SPyRO" value="" />
         <entry key="SQLAHelper" value="" />
         <entry key="SQLAWebtrends" value="" />
-        <entry key="SQLAlchemy" value="" />
+        <entry key="SQLAlchemy" value="1.0.15" />
         <entry key="SQLAlchemy-AutoSlug" value="" />
         <entry key="SQLAlchemy-Continuum" value="" />
         <entry key="SQLAlchemy-Dao" value="" />
@@ -8622,7 +8622,7 @@
         <entry key="SoundFile" value="" />
         <entry key="SourceBrowser" value="" />
         <entry key="SourceSpell" value="" />
-        <entry key="South" value="" />
+        <entry key="South" value="1.0.2" />
         <entry key="Soya" value="" />
         <entry key="Soya3" value="" />
         <entry key="Sp2Learning" value="" />
@@ -12222,7 +12222,7 @@
         <entry key="argopen" value="" />
         <entry key="argopt" value="" />
         <entry key="argos" value="" />
-        <entry key="argparse" value="" />
+        <entry key="argparse" value="1.4.0" />
         <entry key="argparse-oappend" value="" />
         <entry key="argparse-safe" value="" />
         <entry key="argparse.extra" value="" />
@@ -14169,7 +14169,7 @@
         <entry key="beautiful-readme" value="" />
         <entry key="beautiful_print" value="" />
         <entry key="beautifulscraper" value="" />
-        <entry key="beautifulsoup4" value="" />
+        <entry key="beautifulsoup4" value="4.5.1" />
         <entry key="beautifulsoup4-slurp" value="" />
         <entry key="beautifulsoupselect" value="" />
         <entry key="beautify" value="" />
@@ -23745,7 +23745,7 @@
         <entry key="distorm3" value="" />
         <entry key="distprocessing" value="" />
         <entry key="distrib" value="" />
-        <entry key="distribute" value="" />
+        <entry key="distribute" value="0.6.49" />
         <entry key="distribute-install_component" value="" />
         <entry key="distributed" value="" />
         <entry key="distributed-frontera" value="" />
@@ -25136,7 +25136,7 @@
         <entry key="django-context-variables" value="" />
         <entry key="django-contextlayers" value="" />
         <entry key="django-continue-reading" value="" />
-        <entry key="django-contrib-comments" value="" />
+        <entry key="django-contrib-comments" value="1.7.2" />
         <entry key="django-contrib-comments-auth" value="" />
         <entry key="django-contrib-postgres" value="" />
         <entry key="django-contrib-requestprovider" value="" />
@@ -25415,7 +25415,7 @@
         <entry key="django-debug-panel" value="" />
         <entry key="django-debug-queries" value="" />
         <entry key="django-debug-template" value="" />
-        <entry key="django-debug-toolbar" value="" />
+        <entry key="django-debug-toolbar" value="1.5" />
         <entry key="django-debug-toolbar-autoreload" value="" />
         <entry key="django-debug-toolbar-django-info" value="" />
         <entry key="django-debug-toolbar-django13" value="" />
@@ -27444,7 +27444,7 @@
         <entry key="django-mes-fichiers" value="" />
         <entry key="django-mesh" value="" />
         <entry key="django-messagegroups" value="" />
-        <entry key="django-messages" value="" />
+        <entry key="django-messages" value="0.5.3" />
         <entry key="django-messages-extends" value="" />
         <entry key="django-messages-ui" value="" />
         <entry key="django-messaging-contentstore" value="" />
@@ -28879,7 +28879,7 @@
         <entry key="django-revcanonical" value="" />
         <entry key="django-reverse-unique" value="" />
         <entry key="django-reversetag" value="" />
-        <entry key="django-reversion" value="" />
+        <entry key="django-reversion" value="2.0.6" />
         <entry key="django-reversion-compare" value="" />
         <entry key="django-reversion-extras" value="" />
         <entry key="django-review" value="" />
@@ -29875,7 +29875,7 @@
         <entry key="django-tag-tools" value="" />
         <entry key="django-tagconstants" value="" />
         <entry key="django-taggee" value="" />
-        <entry key="django-tagging" value="" />
+        <entry key="django-tagging" value="0.4.5" />
         <entry key="django-tagging-autocomplete" value="" />
         <entry key="django-tagging-ext" value="" />
         <entry key="django-tagging-ng" value="" />
@@ -31997,7 +31997,7 @@
         <entry key="document_it" value="" />
         <entry key="documentation" value="" />
         <entry key="documenteer" value="" />
-        <entry key="docutils" value="" />
+        <entry key="docutils" value="0.12" />
         <entry key="docutils-aafigure" value="" />
         <entry key="docutils-ast-writer" value="" />
         <entry key="docutils-htmlwriter" value="" />
@@ -32039,8 +32039,8 @@
         <entry key="dogpile" value="" />
         <entry key="dogpile-backend-redis-advanced" value="" />
         <entry key="dogpile-elasticache" value="" />
-        <entry key="dogpile.cache" value="" />
-        <entry key="dogpile.core" value="" />
+        <entry key="dogpile.cache" value="0.6.2" />
+        <entry key="dogpile.core" value="0.4.1" />
         <entry key="dogpile_cache_autoselect" value="" />
         <entry key="dogpy" value="" />
         <entry key="dogs" value="" />
@@ -35339,7 +35339,7 @@
         <entry key="feedinlib" value="" />
         <entry key="feedly" value="" />
         <entry key="feedme" value="" />
-        <entry key="feedparser" value="" />
+        <entry key="feedparser" value="5.2.1" />
         <entry key="feedprovider" value="" />
         <entry key="feedr" value="" />
         <entry key="feedreader" value="" />
@@ -37749,7 +37749,7 @@
         <entry key="gdapi" value="" />
         <entry key="gdapi-python" value="" />
         <entry key="gdash" value="" />
-        <entry key="gdata" value="" />
+        <entry key="gdata" value="2.0.18" />
         <entry key="gdata.py" value="" />
         <entry key="gdbm_compat" value="" />
         <entry key="gdbn" value="" />
@@ -43298,7 +43298,7 @@
         <entry key="ipystata" value="" />
         <entry key="ipytangle" value="" />
         <entry key="ipytest" value="" />
-        <entry key="ipython" value="" />
+        <entry key="ipython" value="5.1.0" />
         <entry key="ipython-animated-array" value="" />
         <entry key="ipython-autotime" value="" />
         <entry key="ipython-beautifulsoup" value="" />
@@ -47914,8 +47914,8 @@
         <entry key="logical-permissions" value="" />
         <entry key="logicmail" value="" />
         <entry key="logicmonitor_core" value="" />
-        <entry key="logilab-astng" value="" />
-        <entry key="logilab-common" value="" />
+        <entry key="logilab-astng" value="0.24.3" />
+        <entry key="logilab-common" value="1.2.2" />
         <entry key="logilab-constraint" value="" />
         <entry key="logilab-database" value="" />
         <entry key="logilab-devtools" value="" />
@@ -57845,7 +57845,7 @@
         <entry key="pep438" value="" />
         <entry key="pep440" value="" />
         <entry key="pep470" value="" />
-        <entry key="pep8" value="" />
+        <entry key="pep8" value="1.7.0" />
         <entry key="pep8-naming" value="" />
         <entry key="pep8ify" value="" />
         <entry key="pep8nazi" value="" />
@@ -58566,7 +58566,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -60769,7 +60769,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -63218,7 +63218,7 @@
         <entry key="pyflags" value="" />
         <entry key="pyflake" value="" />
         <entry key="pyflake8" value="" />
-        <entry key="pyflakes" value="" />
+        <entry key="pyflakes" value="1.3.0" />
         <entry key="pyflakes-ext" value="" />
         <entry key="pyflakes3k" value="" />
         <entry key="pyflakes8" value="" />
@@ -64679,7 +64679,7 @@
         <entry key="pyoctopart" value="" />
         <entry key="pyoctree" value="" />
         <entry key="pyoda" value="" />
-        <entry key="pyodbc" value="" />
+        <entry key="pyodbc" value="3.0.10" />
         <entry key="pyodbc-ct" value="" />
         <entry key="pyodbc-database-tools" value="" />
         <entry key="pyodbc-raw" value="" />
@@ -66617,7 +66617,7 @@
         <entry key="python-BLICK" value="" />
         <entry key="python-ESL" value="" />
         <entry key="python-Hijri-Umalqurra" value="" />
-        <entry key="python-Levenshtein" value="" />
+        <entry key="python-Levenshtein" value="0.12.0" />
         <entry key="python-RIBBIT" value="" />
         <entry key="python-TournamentCode" value="" />
         <entry key="python-Wappalyzer" value="" />
@@ -66868,7 +66868,7 @@
         <entry key="python-datemath" value="" />
         <entry key="python-datetime-tz" value="" />
         <entry key="python-datetime2" value="" />
-        <entry key="python-dateutil" value="" />
+        <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-db" value="" />
         <entry key="python-dbusmock" value="" />
         <entry key="python-dbusx" value="" />
@@ -67222,7 +67222,7 @@
         <entry key="python-lattice" value="" />
         <entry key="python-launchpadlib-toolkit" value="" />
         <entry key="python-lazy-object-proxy" value="" />
-        <entry key="python-ldap" value="" />
+        <entry key="python-ldap" value="2.4.27" />
         <entry key="python-ldap-test" value="" />
         <entry key="python-ldap3" value="" />
         <entry key="python-ldraw" value="" />
@@ -70578,7 +70578,7 @@
         <entry key="reportermd" value="" />
         <entry key="reportes_sic" value="" />
         <entry key="reporting" value="" />
-        <entry key="reportlab" value="" />
+        <entry key="reportlab" value="3.3.0" />
         <entry key="reportlogging" value="" />
         <entry key="reports" value="" />
         <entry key="repos" value="" />
@@ -70737,7 +70737,7 @@
         <entry key="requestests" value="" />
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -73865,7 +73865,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="27.1.2" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -74962,7 +74962,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
@@ -76849,7 +76849,7 @@
         <entry key="sqlalchemygrate" value="" />
         <entry key="sqlamp" value="" />
         <entry key="sqlany_django" value="" />
-        <entry key="sqlanydb" value="" />
+        <entry key="sqlanydb" value="1.0.8" />
         <entry key="sqlapi" value="" />
         <entry key="sqlaqb" value="" />
         <entry key="sqlash" value="" />
@@ -82729,7 +82729,7 @@
         <entry key="uSphinx" value="" />
         <entry key="uTidylib" value="" />
         <entry key="uTorrent.Py" value="" />
-        <entry key="uWSGI" value="" />
+        <entry key="uWSGI" value="2.0.13.1" />
         <entry key="uWeb" value="" />
         <entry key="ua" value="" />
         <entry key="ua-api-utils" value="" />
