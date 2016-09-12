@@ -1,0 +1,9 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="ssh://careyb@nari:22/home/housingtest/.virtualenvs/django/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>

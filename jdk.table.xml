@@ -1,0 +1,75 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.9 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file:///usr/lib/pymodules/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (ssh://careyb@nari:22/home/careyb/.virtualenvs/django/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="ssh://careyb@nari:22/home/careyb/.virtualenvs/django/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-472667420" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-1426964088" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/1645229465" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/1717668897" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-2145795944" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/523139865" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-2130300227" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/2113990948" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="nari" PORT="22" ANONYMOUS="false" USERNAME="careyb" PASSWORD="dfd9dfdadf8bdfcedf99dfd8dfc7df9adfc4dfc1df99dfd3" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="$USER_HOME$/.virtualenvs/django/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-472667420" remote-root="/home/careyb/.virtualenvs/django/local/lib/python2.7/site-packages/pip-1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-1426964088" remote-root="/home/careyb/.virtualenvs/django/lib/python2.7/site-packages/pip-1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/1645229465" remote-root="/home/careyb/.virtualenvs/django/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/1717668897" remote-root="/home/careyb/.virtualenvs/django/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/523139865" remote-root="/home/careyb/.virtualenvs/django/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/2113990948/-2130300227" remote-root="/home/careyb/.virtualenvs/django/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
