@@ -24885,7 +24885,7 @@
         <entry key="django-chunkator" value="" />
         <entry key="django-chunked-upload" value="" />
         <entry key="django-chunked-uploads" value="" />
-        <entry key="django-chunks" value="" />
+        <entry key="django-chunks" value="0.1" />
         <entry key="django-chunks2" value="" />
         <entry key="django-chunky" value="" />
         <entry key="django-ci" value="" />
@@ -86177,7 +86177,7 @@
         <entry key="wsgioauth.zodb" value="" />
         <entry key="wsgipreload" value="" />
         <entry key="wsgiprof" value="" />
-        <entry key="wsgiref" value="" />
+        <entry key="wsgiref" value="0.1.2" />
         <entry key="wsgireloader" value="" />
         <entry key="wsgiserialize" value="" />
         <entry key="wsgissi" value="" />
